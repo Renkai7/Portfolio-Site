@@ -33,3 +33,7 @@
     transform: translate(-50%, -50%);
 }
 
+/* Project Page */
+.projects {
+    height: 100vh;
+}
